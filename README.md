@@ -16,7 +16,7 @@ SpendSmart is a **Flask-based** personal finance tracking application designed t
 ## 🛠 Tech Stack  
 - **Backend:** Flask (Python)  
 - **Frontend:** HTML, CSS  
-- **Database:** SQLite (if applicable)  
+- **Database:** SQLite  
 - **Styling:** Custom CSS (`static/styles.css`)  
 
 
